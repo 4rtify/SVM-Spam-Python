@@ -1,0 +1,4 @@
+[] Turn Email into its parset form
+[] Create A vocab list of the most occuring words from the spam folder
+[] Parse emails into vectors from the vocab list
+[] convert into a feature vector, train data
